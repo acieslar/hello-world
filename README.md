@@ -1,2 +1,3 @@
 # hello-world
-Hello world
+
+Having fun with test hello world project!
